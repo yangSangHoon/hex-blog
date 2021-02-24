@@ -35,61 +35,61 @@ sidebar:
             url: /
             icon: fa fa-home
         categories:
-            title: global.categories
-            url: /all-categories
+            title: '경력 기술서'
+            url: /resume
             icon: fa fa-bookmark
-        tags:
-            title: global.tags
-            url: /all-tags
-            icon: fa fa-tags
-        archives:
-            title: global.archives
-            url: /all-archives
-            icon: fa fa-archive
-        search:
-            title: global.search
-            url: "#search"
-            icon: fa fa-search
-            # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
-        about:
-            title: global.about
-            url: "#about"
-            icon: fa fa-question
+    #     tags:
+    #         title: global.tags
+    #         url: /all-tags
+    #         icon: fa fa-tags
+    #     archives:
+    #         title: global.archives
+    #         url: /all-archives
+    #         icon: fa fa-archive
+    #     search:
+    #         title: global.search
+    #         url: "#search"
+    #         icon: fa fa-search
+    #         # `open-algolia-search` classes are used to open algolia search modal
+    #         class: open-algolia-search
+    #     about:
+    #         title: global.about
+    #         url: "#about"
+    #         icon: fa fa-question
     author_links:
         github:
             title: global.github
             url: https://github.com/
             icon: fab fa-github
-        stack_overflow:
-            title: global.stack_overflow
-            url: http://stackoverflow.com/users
-            icon: fab fa-stack-overflow
-        twitter:
-            title: global.twitter
-            url: https://twitter.com/
-            icon: fab fa-twitter
-        facebook:
-            title: global.facebook
-            url: https://facebook.com/
-            icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
-        linked_in:
-            title: global.linkedin
-            url: https://www.linkedin.com/profile/
-            icon: fab fa-linkedin
-        mail:
-            title: global.mail
-            url: mailto
-            icon: fa fa-envelope
-    rss:
-        rss:
-            title: global.rss
-            url: /atom.xml
-            icon: fa fa-rss
+        # stack_overflow:
+        #     title: global.stack_overflow
+        #     url: http://stackoverflow.com/users
+        #     icon: fab fa-stack-overflow
+        # twitter:
+        #     title: global.twitter
+        #     url: https://twitter.com/
+        #     icon: fab fa-twitter
+        # facebook:
+        #     title: global.facebook
+        #     url: https://facebook.com/
+        #     icon: fab fa-facebook
+        # google_plus:
+        #     title: global.google_plus
+        #     url: https://plus.google.com/
+        #     icon: fab fa-google-plus
+        # linked_in:
+        #     title: global.linkedin
+        #     url: https://www.linkedin.com/profile/
+        #     icon: fab fa-linkedin
+        # mail:
+        #     title: global.mail
+        #     url: mailto
+        #     icon: fa fa-envelope
+    # rss:
+    #     rss:
+    #         title: global.rss
+    #         url: /atom.xml
+    #         icon: fa fa-rss
 
 
 # --------------------
