@@ -1,5 +1,6 @@
 ---
 title: RTCPeerConnection을 이용한 sdp, candidate 교환 및 협상
+layout: 'tech'
 ---
 
 ## 두 peer간 협상 과정 예시
